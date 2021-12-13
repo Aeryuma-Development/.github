@@ -5,4 +5,4 @@ Bot Developer For Multiple Platform
 
 |      | Name | Platform | Website |
 |------ | ------ | ------- |--------|
-|<img src ="https://cdn.yuzuhanakazawa.repl.co">  | Asuka Hana | Discord | [Learn More](https://asukahana.aeryuma.repl.co) |
+|<img src ="https://cdn.yuzuhanakazawa.repl.co/asuka.jpg">  | Asuka Hana | Discord | [Learn More](https://asukahana.aeryuma.repl.co) |

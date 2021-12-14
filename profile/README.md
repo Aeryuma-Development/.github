@@ -3,7 +3,7 @@ Bot Developer For Multiple Platform
 
 <h3>Bot List</h3>
 
-| Avatar | Name | Platform | Learn More |
+| Avatar &bnsp; &bnsp;| Name | Platform | Learn More |
 :-----:|:-----:|:----------:|:----------:
 | <img src="https://cdn.yuzuhanakazawa.repl.co/asuka.jpg" width="50px" height="50px">  | Asuka Hana | Discord | [Visit](https://asukahana.aeryuma.repl.co) |
 | <img src="https://cdn.yuzuhanakazawa.repl.co/bunga.jpg" width="50px" height="50px">  | Bunga Anischa | Discord | [Visit](https://bungaanischa.aeryuma.repl.co) |

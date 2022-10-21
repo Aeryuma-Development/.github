@@ -4,8 +4,20 @@ Bot Developer For Multiple Platform
 
 ## Information
 
+-------------------------::
+
 ### Discord
 
 > • [Bot Invite]()
+
 > • [Community Support]()
+
+> • [Documentation]()
+
+### Guilded
+
+> • [Bot Invite]()
+
+> • [Community Support]()
+
 > • [Documentation]()

@@ -2,6 +2,12 @@
 Bot Developer For Multiple Platform
 [Website]() | [Forum]() | [Documentation]()
 
+**Donation**
+
+I Open Donation To Encourage This Project I will not force anyone here, for those who want to support only
+**[Patreon]()**
+
+
 ## Information
 
 -------------------------

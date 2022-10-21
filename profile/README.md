@@ -6,15 +6,7 @@ Bot Developer For Multiple Platform
 
 -------------------------
 
-### Discord
-
-> • [Bot Invite]()
-
-> • [Community Support]()
-
-> • [Documentation]()
-
-### Guilded
+### Discord | [ ] Available
 
 > • [Bot Invite]()
 
@@ -23,3 +15,44 @@ Bot Developer For Multiple Platform
 > • [Documentation]()
 
 -------------------------
+
+### Guilded | [ ] Available
+
+> • [Bot Invite]()
+
+> • [Community Support]()
+
+> • [Documentation]()
+
+-------------------------
+
+### Revolt | [ ] Available
+
+> • [Bot Invite]()
+
+> • [Community Support]()
+
+> • [Documentation]()
+
+-------------------------
+
+### Telegram | [ ] Available
+
+> • [Bot Invite]()
+
+> • [Community Support]()
+
+> • [Documentation]()
+
+-------------------------
+
+### WhatsApp | [ ] Available
+
+> • [Bot Invite]()
+
+> • [Community Support]()
+
+> • [Documentation]()
+
+-------------------------
+

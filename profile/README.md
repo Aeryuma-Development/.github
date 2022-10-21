@@ -4,7 +4,7 @@ Bot Developer For Multiple Platform
 
 ## Information
 
--------------------------::
+-------------------------
 
 ### Discord
 
@@ -21,3 +21,5 @@ Bot Developer For Multiple Platform
 > • [Community Support]()
 
 > • [Documentation]()
+
+-------------------------

@@ -6,7 +6,7 @@ Bot Developer For Multiple Platform
 
 -------------------------
 
-### Discord | [ ] Available
+### [ ] Discord
 
 > • [Bot Invite]()
 

@@ -6,7 +6,7 @@ Bot Developer For Multiple Platform
 
 -------------------------
 
-### [ ] Discord
+### Discord
 
 > • [Bot Invite]()
 
@@ -16,7 +16,7 @@ Bot Developer For Multiple Platform
 
 -------------------------
 
-### Guilded | [ ] Available
+### Guilded
 
 > • [Bot Invite]()
 
@@ -26,7 +26,7 @@ Bot Developer For Multiple Platform
 
 -------------------------
 
-### Revolt | [ ] Available
+### Revolt
 
 > • [Bot Invite]()
 
@@ -36,7 +36,7 @@ Bot Developer For Multiple Platform
 
 -------------------------
 
-### Telegram | [ ] Available
+### Telegram
 
 > • [Bot Invite]()
 
@@ -46,7 +46,7 @@ Bot Developer For Multiple Platform
 
 -------------------------
 
-### WhatsApp | [ ] Available
+### WhatsApp
 
 > • [Bot Invite]()
 
